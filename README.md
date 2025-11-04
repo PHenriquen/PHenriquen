@@ -5,7 +5,7 @@
 
 <p align="center">
   <b>💡 Técnico em Desenvolvimento de Sistemas</b> — SENAI CTTI MG<br>
-  <b>🎯 18 anos | Brasil</b><br><br>
+  <b>🎯 19 anos | Brasil</b><br><br>
   Apaixonado por tecnologia desde o primeiro <i>hello world</i>.  
   Atuo com <b>C#</b>, <b>C++</b> e <b>Python</b> no desenvolvimento de <b>sistemas integrados com IoT e Arduino</b>,  
   unindo hardware e software para soluções funcionais.<br>
