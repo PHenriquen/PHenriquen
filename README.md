@@ -1,21 +1,23 @@
-<h1 align="center"> Pedro Henrique</h1>
+<h1 align="center">Pedro Henrique</h1>
 <h3 align="center">Técnico em Desenvolvimento de Sistemas | Estudante em evolução</h3>
 
 ---
 
 <p align="center">
-  <b> Técnico em Desenvolvimento de Sistemas</b> — SENAI CTTI MG<br>
-  <b> 19 anos | Brasil</b><br><br>
-  Apaixonado por tecnologia desde o primeiro <i>hello world</i>.  
-  Atuo com <b>C#</b>, <b>C++</b> e <b>Python</b> no desenvolvimento de <b>sistemas integrados com IoT e Arduino</b>,  
-  unindo hardware e software para soluções funcionais.<br>
-  Experiência prática com <b>programação</b>, <b>banco de dados</b>, <b>lógica</b> e <b>modelagem de processos</b>.
+  <b>Técnico em Desenvolvimento de Sistemas</b> — SENAI CTTI MG<br>
+  <b>19 anos | Brasil</b><br><br>
+
+  Estudante de Desenvolvimento de Sistemas, com base em <b>programação</b> e <b>lógica</b>.<br>
+  Experiência prática em projetos com <b>C#</b>, <b>C++</b> e <b>Python</b>, incluindo a integração de
+  <b>hardware e software</b> em soluções com <b>IoT</b> e <b>Arduino</b>.
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pedro-henrique-138aa2304/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Pedro%20Henrique-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pedro-henrique-138aa2304/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Henrique-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -40,5 +42,5 @@
 ---
 
 <p align="center">
-   <i>☕</i>
+  <i>☕</i>
 </p>
