@@ -1,5 +1,5 @@
 <h1 align="center"> Pedro Henrique</h1>
-<h3 align="center">Desenvolvedor FullStack | Técnico em Desenvolvimento de Sistemas</h3>
+<h3 align="center">Técnico em Desenvolvimento de Sistemas | Estudante em evolução</h3>
 
 ---
 
