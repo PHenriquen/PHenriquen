@@ -15,8 +15,6 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/PHenriquen"><img alt="GitHub" src="https://img.shields.io/badge/-@PHenriquen-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://x.com/henriqxyl"><img alt="X" src="https://img.shields.io/badge/-@henriqxyl-000000?style=flat-square&logo=x&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/pedro-henrique-138aa2304/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Pedro%20Henrique-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
