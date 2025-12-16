@@ -5,18 +5,20 @@
 
 <p align="center">
   <b>Técnico em Desenvolvimento de Sistemas</b> — SENAI CTTI MG<br>
-  <b>19 anos | Brasil</b><br><br>
+  <b>19 anos | Brasil</b>
+</p>
 
+<p align="center">
   Estudante de Desenvolvimento de Sistemas, com base em <b>programação</b> e <b>lógica</b>.<br>
   Experiência prática em projetos com <b>C#</b>, <b>C++</b> e <b>Python</b>, incluindo a integração de
-  <b>hardware e software</b> em soluções com <b>IoT</b> e <b>Arduino</b>.
+  <b>hardware</b> e <b>software</b> em soluções com <b>IoT</b> e <b>Arduino</b>.
 </p>
 
 ---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-henrique-138aa2304/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Henrique-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
 </p>
 
