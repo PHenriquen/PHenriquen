@@ -40,5 +40,5 @@
 ---
 
 <p align="center">
-  🚀 <i>Powered by curiosity | Built with 💻 and ☕</i>
+  🚀 <i>☕</i>
 </p>
