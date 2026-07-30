@@ -1,96 +1,122 @@
-# Hi, I'm Pedro Henrique
+<div align="center">
 
-I am a software developer in training and a Systems Development technical student.
+Olá, eu sou Pedro Henrique! 👋
 
-I build practical software projects focused on web development, backend APIs, databases, automation and AI-driven solutions.
+Estudante de Engenharia de Software | Desenvolvedor Back-end em formação
 
----
+Desenvolvo soluções voltadas para APIs, bancos de dados, automação, IoT e sistemas inteligentes, sempre buscando transformar problemas reais em projetos funcionais e bem estruturados.
 
-## About Me
 
-I am interested in creating systems that are useful, organized and connected to real-world problems.
 
-My main focus is improving as a developer by building projects that combine clean structure, functional interfaces, databases, APIs and intelligent features.
+</div>
 
-I am currently looking for opportunities to grow professionally, contribute to real projects and keep improving my technical foundation.
+👨‍💻 Sobre mim
 
----
+🎓 Estudante de Engenharia de Software e de Desenvolvimento de Sistemas.
 
-## Main Interests
+💻 Foco em desenvolvimento back-end, APIs, bancos de dados e integração entre software e hardware.
 
-- Web Development
-- Backend APIs
-- Databases
-- Artificial Intelligence
-- Automation
-- Internet of Things
-- Industrial Systems
-- Software Architecture
-- Clean and organized project structure
+🔭 Atualmente desenvolvendo o S.V.I. 4.0, um sistema de monitoramento industrial com sensores, dashboards e análise de dados.
 
----
+🌱 Aprimorando meus conhecimentos em Python, C#, Java, SQL, FastAPI, PostgreSQL, automação e inteligência artificial.
 
-## Technologies I Study and Use
+🎯 Buscando minha primeira oportunidade profissional para contribuir em projetos reais e evoluir com uma equipe de tecnologia.
 
-- Python
-- C#
-- HTML
-- CSS
-- JavaScript
-- SQL
-- FastAPI
-- PostgreSQL
-- Git and GitHub
-- ESP32 and sensors
-- Basic AI and data analysis concepts
+📍 Betim, Minas Gerais — Brasil.
 
----
+🚀 Tecnologias e ferramentas
 
-## Main Project
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cs,java,js,html,css,fastapi,postgres,git,github,arduino,vscode&perline=6" alt="Tecnologias utilizadas por Pedro Henrique" />
+</div>
 
-### S.V.I 4.0 — Industrial Monitoring System
+<br>
 
-S.V.I 4.0 is an industrial monitoring system project designed to collect, organize and display machine and sensor data.
+Área
 
-The goal is to help operators and technical teams monitor asset conditions, visualize historical data, identify abnormal behavior and support preventive actions before failures happen.
+Tecnologias e conhecimentos
 
-This project combines concepts of software development, backend APIs, databases, dashboards, IoT and AI-assisted analysis.
+Linguagens
 
-Technologies and concepts involved:
+Python, C#, Java, JavaScript e SQL
 
-- ESP32
-- Temperature and vibration sensors
-- FastAPI
-- PostgreSQL
-- HTML, CSS and JavaScript
-- API development
-- Dashboard interface
-- Alert system
-- Preventive maintenance concepts
+Desenvolvimento web
 
----
+HTML, CSS, APIs REST, FastAPI e Flask
 
-## Other Projects and Studies
+Banco de dados
 
-- CRUD systems with C# and databases
-- API projects with Python and FastAPI
-- Database modeling projects
-- Computer vision and AI studies
-- Web interface projects
-- Academic software development projects
+PostgreSQL e modelagem de dados
 
----
+IoT e automação
 
-## Current Goal
+Arduino, ESP32, sensores e comunicação serial
 
-My current goal is to get my first opportunity in technology, especially in software development, web development, backend, support, data, automation or related areas.
+Ferramentas
 
-I am open to learning, contributing and developing real experience with professional teams.
+Git, GitHub e Visual Studio Code
 
----
+Estudos atuais
 
-## Connect With Me
+Inteligência artificial, análise de dados, testes e arquitetura de software
 
-- LinkedIn: add your LinkedIn link here
-- Portfolio: add your portfolio link here
-- Email: add your professional email here
+🏭 Projeto em destaque
+
+S.V.I. 4.0 — Sistema de Vigilância Inteligente
+
+O S.V.I. 4.0 é um projeto de monitoramento industrial criado para coletar, organizar e apresentar dados de máquinas e sensores em tempo real.
+
+A solução busca apoiar operadores e equipes técnicas na identificação de comportamentos anormais, acompanhamento da saúde dos equipamentos e tomada de decisões preventivas antes que falhas causem paradas na produção.
+
+Principais recursos e conceitos:
+
+Coleta de dados de temperatura, vibração, corrente e produção.
+
+Integração entre sensores, microcontroladores e software.
+
+APIs para disponibilização dos dados monitorados.
+
+Dashboards com indicadores e histórico dos equipamentos.
+
+Alertas de comportamento anormal.
+
+Conceitos de manutenção preventiva e Indústria 4.0.
+
+Aplicação de inteligência artificial para apoiar análises e recomendações.
+
+Tecnologias: Python, FastAPI, PostgreSQL, HTML, CSS, JavaScript, Arduino, ESP32 e sensores.
+
+
+
+📚 Outros projetos e estudos
+
+Integração entre Arduino e Python, com leitura serial, interface gráfica e API.
+
+Sistemas CRUD utilizando C# e bancos de dados.
+
+APIs desenvolvidas com Python, FastAPI e Flask.
+
+Modelagem e manipulação de bancos de dados relacionais.
+
+Testes automatizados com Python e Pytest.
+
+Estudos de visão computacional, inteligência artificial e análise de dados.
+
+Desenvolvimento de interfaces web para projetos acadêmicos.
+
+⭐ Estatísticas do GitHub
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PHenriquen&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHenriquen&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas" />
+</div>
+
+📫 Contato
+
+Estou aberto a oportunidades em desenvolvimento de software, back-end, suporte técnico, dados, automação, IoT e áreas relacionadas.
+
+<div align="center">
+
+
+
+</div>
