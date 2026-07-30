@@ -31,7 +31,7 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="52%" valign="top">
 
 <h3 align="center">👨‍💻 About Me</h3>
 
@@ -49,27 +49,16 @@ I am currently improving my technical skills and looking for my first profession
 
 </td>
 
-<td width="50%" valign="top">
+<td width="48%" valign="top">
 
-<h3 align="center">🏭 Featured Project</h3>
-
-<p align="center">
-  <strong>
-    <a href="https://github.com/PHenriquen/Interface">
-      S.V.I. 4.0
-    </a>
-  </strong>
-</p>
-
-<p>
-Industrial monitoring system that connects software, sensors and machine data to support real-time monitoring, alerts and preventive maintenance.
-</p>
+<h3 align="center">📊 GitHub Statistics</h3>
 
 <p align="center">
-  <code>Python</code>
-  <code>APIs</code>
-  <code>Databases</code>
-  <code>ESP32</code>
+  <img
+    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PHenriquen&theme=2077"
+    alt="GitHub statistics"
+  />
 </p>
 
 </td>
@@ -80,29 +69,42 @@ Industrial monitoring system that connects software, sensors and machine data to
 
 <p align="center">
   <img
-    height="34"
+    height="32"
     src="https://skillicons.dev/icons?i=python,cs,js,html,css,fastapi,flask,postgres,mysql,git,github,vscode,visualstudio,arduino&perline=14"
     alt="Technology icons"
   />
 </p>
 
-## 📊 GitHub Statistics
+---
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
+
+<h3 align="center">🏭 Featured Project</h3>
+
+<h4 align="center">
+  <a href="https://github.com/PHenriquen/Interface">
+    S.V.I. 4.0 — Intelligent Industrial Monitoring System
+  </a>
+</h4>
 
 <p align="center">
-  <img
-    width="46%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PHenriquen&theme=2077"
-    alt="Most used languages"
-  />
-
-  <img
-    width="46%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PHenriquen&theme=2077"
-    alt="GitHub statistics"
-  />
+Industrial monitoring system that connects software, sensors and machine data to support real-time monitoring, alerts and preventive maintenance.
 </p>
 
----
+<p align="center">
+  <code>Python</code>
+  <code>APIs</code>
+  <code>Databases</code>
+  <code>ESP32</code>
+  <code>Automation</code>
+  <code>IoT</code>
+</p>
+
+</td>
+  </tr>
+</table>
 
 <p align="center">
   Open to learning, collaborating and contributing to real software projects.
