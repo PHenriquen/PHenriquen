@@ -1,42 +1,54 @@
-<div align="center">
+<p align="center">
+  <img
+    width="100%"
+    src="./assets/batman-code.svg"
+    alt="Pedro Henrique Nogueira — Software Engineering Student"
+  />
+</p>
 
-# Pedro Henrique Nogueira
+<p align="center">
+  <a href="https://github.com/PHenriquen">
+    <img
+      src="https://img.shields.io/badge/GitHub-PHenriquen-181717?style=flat-square&logo=github"
+      alt="GitHub"
+    />
+  </a>
 
-### Software Engineering Student
+  <a href="https://www.linkedin.com/in/pedro-henrique-138aa2304/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Pedro%20Henrique-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
 
-**Backend Development • Automation • IoT • Intelligent Systems**
-
-<a href="https://github.com/PHenriquen">
-  <img src="https://img.shields.io/badge/GitHub-PHenriquen-181717?style=flat-square&logo=github" />
-</a>
-<a href="https://www.linkedin.com/in/pedro-henrique-138aa2304/">
-  <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Henrique-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=PHenriquen&style=flat-square&color=7C3AED&label=Profile+Views" />
-
-</div>
+  <img
+    src="https://komarev.com/ghpvc/?username=PHenriquen&style=flat-square&color=7C3AED&label=Profile+Views"
+    alt="Profile Views"
+  />
+</p>
 
 ---
 
 <table>
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td width="50%" valign="top">
 
 <h3 align="center">👨‍💻 About Me</h3>
 
 <p>
-Software Engineering student focused on building practical and organized software solutions.
+Software Engineering student focused on developing practical, organized and functional software solutions.
 </p>
 
 <p>
-<strong>Interests:</strong> backend development, APIs, databases, automation, IoT and artificial intelligence.
+My main interests include <strong>backend development, APIs, databases, automation, IoT and artificial intelligence</strong>.
 </p>
 
 <p>
-<strong>Current goal:</strong> earn my first professional opportunity in technology and contribute to real projects.
+I am currently improving my technical skills and looking for my first professional opportunity in technology.
 </p>
 
 </td>
+
 <td width="50%" valign="top">
 
 <h3 align="center">🏭 Featured Project</h3>
@@ -50,7 +62,7 @@ Software Engineering student focused on building practical and organized softwar
 </p>
 
 <p>
-Industrial monitoring system that connects software, sensors and machine data to support real-time monitoring and preventive maintenance.
+Industrial monitoring system that connects software, sensors and machine data to support real-time monitoring, alerts and preventive maintenance.
 </p>
 
 <p align="center">
@@ -61,15 +73,16 @@ Industrial monitoring system that connects software, sensors and machine data to
 </p>
 
 </td>
-</tr>
+  </tr>
 </table>
 
 ## 🧰 Tech Stack
 
 <p align="center">
   <img
-    height="36"
+    height="34"
     src="https://skillicons.dev/icons?i=python,cs,js,html,css,fastapi,flask,postgres,mysql,git,github,vscode,visualstudio,arduino&perline=14"
+    alt="Technology icons"
   />
 </p>
 
@@ -79,19 +92,18 @@ Industrial monitoring system that connects software, sensors and machine data to
   <img
     width="46%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PHenriquen&theme=2077"
+    alt="Most used languages"
   />
+
   <img
     width="46%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PHenriquen&theme=2077"
+    alt="GitHub statistics"
   />
 </p>
 
 ---
 
 <p align="center">
-  <img
-    width="100%"
-    src="./assets/batman-code.svg"
-    alt="Batman-themed coding animation"
-  />
+  Open to learning, collaborating and contributing to real software projects.
 </p>
