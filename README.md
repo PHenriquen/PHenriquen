@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/PHenriquen">
+  <a href="https://website-kohl-six-11.vercel.app/">
     <img
-      src="https://img.shields.io/badge/GitHub-PHenriquen-181717?style=flat-square&logo=github"
-      alt="GitHub"
+      src="https://img.shields.io/badge/Portfolio-View%20my%20work-7C3AED?style=flat-square&logo=vercel&logoColor=white"
+      alt="Portfolio"
     />
   </a>
 
@@ -31,25 +31,29 @@
 
 <table>
   <tr>
-    <td width="52%" valign="top">
+    <td width="55%" valign="top">
 
 <h3 align="center">👨‍💻 About Me</h3>
 
 <p>
-Software Engineering student focused on developing practical, organized and functional software solutions.
+I am a Software Engineering student focused on turning real-world needs into practical, organized and functional software solutions.
 </p>
 
-<p>
-My main interests include <strong>backend development, APIs, databases, automation, IoT and artificial intelligence</strong>.
-</p>
-
-<p>
-I am currently improving my technical skills and looking for my first professional opportunity in technology.
-</p>
+<ul>
+  <li>
+    <strong>Focus:</strong> backend development, REST APIs, databases and web systems.
+  </li>
+  <li>
+    <strong>Interests:</strong> automation, IoT, artificial intelligence and data analysis.
+  </li>
+  <li>
+    <strong>Current goal:</strong> earn my first professional opportunity in technology and contribute to real projects.
+  </li>
+</ul>
 
 </td>
 
-<td width="48%" valign="top">
+<td width="45%" valign="top">
 
 <h3 align="center">📊 GitHub Statistics</h3>
 
@@ -69,7 +73,7 @@ I am currently improving my technical skills and looking for my first profession
 
 <p align="center">
   <img
-    height="32"
+    height="30"
     src="https://skillicons.dev/icons?i=python,cs,js,html,css,fastapi,flask,postgres,mysql,git,github,vscode,visualstudio,arduino&perline=14"
     alt="Technology icons"
   />
@@ -77,35 +81,17 @@ I am currently improving my technical skills and looking for my first profession
 
 ---
 
-<table>
-  <tr>
-    <td width="100%" valign="top">
+<h3 align="center">🌐 Explore My Work</h3>
 
-<h3 align="center">🏭 Featured Project</h3>
+<p align="center">
+  Projects, technologies and more information about my journey are available in my portfolio.
+</p>
 
-<h4 align="center">
-  <a href="https://github.com/PHenriquen/Interface">
-    S.V.I. 4.0 — Intelligent Industrial Monitoring System
+<p align="center">
+  <a href="https://website-kohl-six-11.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/Open%20Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Open Portfolio"
+    />
   </a>
-</h4>
-
-<p align="center">
-Industrial monitoring system that connects software, sensors and machine data to support real-time monitoring, alerts and preventive maintenance.
-</p>
-
-<p align="center">
-  <code>Python</code>
-  <code>APIs</code>
-  <code>Databases</code>
-  <code>ESP32</code>
-  <code>Automation</code>
-  <code>IoT</code>
-</p>
-
-</td>
-  </tr>
-</table>
-
-<p align="center">
-  Open to learning, collaborating and contributing to real software projects.
 </p>
