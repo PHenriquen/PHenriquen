@@ -77,22 +77,22 @@ Software Engineering undergraduate at Anhanguera and Systems Development Technic
 
 ## 🚀 Featured Projects
 
-### Noa
+### [Noa](https://github.com/PHenriquen/Noa)
 Local desktop AI companion for Windows with text and voice interaction, persistent memory, document processing and permission-controlled actions.
 
 **Stack:** TypeScript · Electron · Python · SQLite · Ollama
 
-### OperaLink — Sistema Integrado de Operações e Monitoramento
-Integrated operations platform that connects telemetry, physical and digital assets, software events, incidents and automation in a monitored and auditable workflow.
+### [SincroHub — Sistema Integrado de Operações e Monitoramento](https://github.com/PHenriquen/SincroHub)
+Integrated operations hub that synchronizes telemetry, physical and digital assets, software events, incidents and automation in a monitored and auditable workflow.
 
 **Stack:** TypeScript · Next.js · NestJS · PostgreSQL · IoT
 
-### Véspera: Ecos do Silêncio
+### [Réquiem: Ecos do Silêncio](https://github.com/PHenriquen/Game-R-quiem)
 2D action roguelite with rhythm-based combat, card-driven builds and an adaptive soundtrack that evolves with player performance.
 
 **Stack:** Godot 4 · C#/.NET · Gameplay Systems
 
-### Manopla Inteligente
+### [Manopla Inteligente](https://github.com/PHenriquen/Manopla-Inteligente)
 Wearable IoT prototype inspired by Iron Man, combining gesture recognition, embedded firmware, visual and haptic feedback, telemetry and a web interface.
 
 **Stack:** ESP32 · C++/Arduino · IoT · OpenSCAD · HTML/CSS/JS
