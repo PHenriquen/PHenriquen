@@ -16,7 +16,7 @@
 
   <a href="https://www.linkedin.com/in/pedro-henrique-138aa2304/">
     <img
-      src="https://img.shields.io/badge/LinkedIn-Pedro%20Henrique-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-Pedro%20Nogueira-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
@@ -31,29 +31,24 @@
 
 <table>
   <tr>
-    <td width="55%" valign="top">
+    <td width="58%" valign="top">
 
 <h3 align="center">👨‍💻 About Me</h3>
 
 <p>
-I am a Software Engineering student focused on turning real-world needs into practical, organized and functional software solutions.
+Software Engineering undergraduate at Anhanguera and Systems Development Technician graduated from SENAI CTTI MG. I build practical software projects with a focus on backend, APIs, databases, local AI, IoT and software-hardware integration.
 </p>
 
 <ul>
-  <li>
-    <strong>Focus:</strong> backend development, REST APIs, databases and web systems.
-  </li>
-  <li>
-    <strong>Interests:</strong> automation, IoT, artificial intelligence and data analysis.
-  </li>
-  <li>
-    <strong>Current goal:</strong> earn my first professional opportunity in technology and contribute to real projects.
-  </li>
+  <li><strong>Education:</strong> Software Engineering — Anhanguera (in progress).</li>
+  <li><strong>Technical background:</strong> Systems Development — SENAI CTTI MG.</li>
+  <li><strong>Focus:</strong> backend development, APIs, databases and systems integration.</li>
+  <li><strong>Interests:</strong> local AI, automation, IoT, embedded systems and software architecture.</li>
 </ul>
 
 </td>
 
-<td width="45%" valign="top">
+<td width="42%" valign="top">
 
 <h3 align="center">📊 GitHub Statistics</h3>
 
@@ -73,18 +68,41 @@ I am a Software Engineering student focused on turning real-world needs into pra
 
 <p align="center">
   <img
-    height="30"
-    src="https://skillicons.dev/icons?i=python,cs,js,html,css,fastapi,flask,postgres,mysql,git,github,vscode,visualstudio,arduino&perline=14"
+    src="https://skillicons.dev/icons?i=ts,nodejs,python,cs,js,html,css,nextjs,nestjs,fastapi,postgres,sqlite,arduino,git,github,vscode&perline=16"
     alt="Technology icons"
   />
 </p>
 
 ---
 
+## 🚀 Featured Projects
+
+### Noa
+Local desktop AI companion for Windows with text and voice interaction, persistent memory, document processing and permission-controlled actions.
+
+**Stack:** TypeScript · Electron · Python · SQLite · Ollama
+
+### OperaLink — Sistema Integrado de Operações e Monitoramento
+Integrated operations platform that connects telemetry, physical and digital assets, software events, incidents and automation in a monitored and auditable workflow.
+
+**Stack:** TypeScript · Next.js · NestJS · PostgreSQL · IoT
+
+### Véspera: Ecos do Silêncio
+2D action roguelite with rhythm-based combat, card-driven builds and an adaptive soundtrack that evolves with player performance.
+
+**Stack:** Godot 4 · C#/.NET · Gameplay Systems
+
+### Manopla Inteligente
+Wearable IoT prototype inspired by Iron Man, combining gesture recognition, embedded firmware, visual and haptic feedback, telemetry and a web interface.
+
+**Stack:** ESP32 · C++/Arduino · IoT · OpenSCAD · HTML/CSS/JS
+
+---
+
 <h3 align="center">🌐 Explore My Work</h3>
 
 <p align="center">
-  Projects, technologies and more information about my journey are available in my portfolio.
+  More details, project context and my current résumé are available in my portfolio.
 </p>
 
 <p align="center">
