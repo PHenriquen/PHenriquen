@@ -77,8 +77,10 @@ Software Engineering undergraduate at Anhanguera and Systems Development Technic
 
 ## 🚀 Featured Projects
 
-### [Noa](https://github.com/PHenriquen/Noa)
-Local desktop AI companion for Windows with text and voice interaction, persistent memory, document processing and permission-controlled actions.
+These projects are gradually being organized under **Zypher**, my personal ecosystem for software, AI, hardware, physical computing and interactive experiments.
+
+### [ILLume](https://github.com/PHenriquen/Illume)
+Local-first desktop AI assistant for Windows with text and voice interaction, persistent memory, document processing and permission-controlled actions. Part of the Zypher Intelligence direction.
 
 **Stack:** TypeScript · Electron · Python · SQLite · Ollama
 
@@ -87,8 +89,8 @@ Integrated operations hub that synchronizes telemetry, physical and digital asse
 
 **Stack:** TypeScript · Next.js · NestJS · PostgreSQL · IoT
 
-### [Réquiem: Ecos do Silêncio](https://github.com/PHenriquen/Game-R-quiem)
-2D action roguelite with rhythm-based combat, card-driven builds and an adaptive soundtrack that evolves with player performance.
+### [Ecos do Tempo](https://github.com/PHenriquen/Noah)
+First original 2D game project, deliberately scoped as a small, finishable experience focused on atmosphere, essential gameplay and environmental storytelling.
 
 **Stack:** Godot 4 · C#/.NET · Gameplay Systems
 
