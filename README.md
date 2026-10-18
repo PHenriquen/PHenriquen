@@ -64,7 +64,9 @@ Software Engineering undergraduate at Anhanguera and Systems Development Technic
   </tr>
 </table>
 
-## 🧰 Tech Stack
+## 🧰 Core Stack & Technical Interests
+
+**Main focus:** backend engineering, APIs, databases and software integration. **Hands-on exploration:** local AI, embedded systems, web interfaces and game development.
 
 <p align="center">
   <img
@@ -75,29 +77,28 @@ Software Engineering undergraduate at Anhanguera and Systems Development Technic
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
-These projects are gradually being organized under **Zypher**, my personal ecosystem for software, AI, hardware, physical computing and interactive experiments.
+**Zypher** is my personal portfolio and visual identity for software, AI and hardware experiments—not a registered company or a claim that every concept is complete.
 
-### [ILLume](https://github.com/PHenriquen/Illume)
-Local-first desktop AI assistant for Windows with text and voice interaction, persistent memory, document processing and permission-controlled actions. Part of the Zypher Intelligence direction.
+### Public code
 
-**Stack:** TypeScript · Electron · Python · SQLite · Ollama
+**[Zypher](https://github.com/PHenriquen/Zypher)** — Next.js/TypeScript portfolio and visual identity.  
+**[Manopla Inteligente](https://github.com/PHenriquen/Manopla-Inteligente)** — ESP32 firmware, serial telemetry protocol, OpenSCAD mechanics and interactive 3D engineering lab. Physical assembly is still in progress.
 
-### [SincroHub — Sistema Integrado de Operações e Monitoramento](https://github.com/PHenriquen/SincroHub)
-Integrated operations hub that synchronizes telemetry, physical and digital assets, software events, incidents and automation in a monitored and auditable workflow.
+### Current work · private repositories
 
-**Stack:** TypeScript · Next.js · NestJS · PostgreSQL · IoT
+These are active or developing projects. Their source code is currently private, so external visitors may not be able to inspect the repositories.
 
-### [Ecos do Tempo](https://github.com/PHenriquen/Noah)
-First original 2D game project, deliberately scoped as a small, finishable experience focused on atmosphere, essential gameplay and environmental storytelling.
+- **SyncHub** — local-first project traceability: GitHub webhooks, task links and synchronization history. SaaS and native mobile client are future goals.
+- **LUMI** — Windows desktop assistant with local models, voice experiments and permission-controlled actions.
+- **S.V.I. 4.0** — industrial monitoring prototype connecting ESP32, FastAPI, telemetry and a web dashboard.
+- **Elume Achados** — product-curation website; a simple authenticated catalog manager is the next major feature.
+- **Ressonância Zero** — original 2D action game in pre-production, centered on waves, rhythm, builds and two characters.
 
-**Stack:** Godot 4 · C#/.NET · Gameplay Systems
+### Planned experiments
 
-### [Manopla Inteligente](https://github.com/PHenriquen/Manopla-Inteligente)
-Wearable IoT prototype inspired by Iron Man, combining gesture recognition, embedded firmware, visual and haptic feedback, telemetry and a web interface.
-
-**Stack:** ESP32 · C++/Arduino · IoT · OpenSCAD · HTML/CSS/JS
+**AEGIS** (cybersecurity), **ApexOS** (distributed infrastructure), **OmniData** (data science) and physical prototypes **Visor Arc**, **Garra Arc** and **Mark I** are concepts; they should not be mistaken for shipped software or completed devices.
 
 ---
 
