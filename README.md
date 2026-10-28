@@ -90,15 +90,15 @@ Software Engineering undergraduate at Anhanguera and Systems Development Technic
 
 These are active or developing projects. Their source code is currently private, so external visitors may not be able to inspect the repositories.
 
-- **SyncHub** — local-first project traceability: GitHub webhooks, task links and synchronization history. SaaS and native mobile client are future goals.
-- **LUMI** — Windows desktop assistant with local models, voice experiments and permission-controlled actions.
+- **SYGNAL** — local-first project traceability: GitHub webhooks, task links and synchronization history. SaaS and native mobile client are future goals.
+- **ILLUME** — Windows desktop assistant with local models, voice experiments and permission-controlled actions.
 - **S.V.I. 4.0** — industrial monitoring prototype connecting ESP32, FastAPI, telemetry and a web dashboard.
 - **Elume Achados** — product-curation website; a simple authenticated catalog manager is the next major feature.
 - **Ressonância Zero** — original 2D action game in pre-production, centered on waves, rhythm, builds and two characters.
 
 ### Planned experiments
 
-**AEGIS** (cybersecurity), **ApexOS** (distributed infrastructure), **OmniData** (data science) and physical prototypes **Visor Arc**, **Garra Arc** and **Mark I** are concepts; they should not be mistaken for shipped software or completed devices.
+**WARDEN** (local file-integrity prototype), **ApexOS** (distributed infrastructure), **OmniData** (data science) and physical prototypes **VYSION**, **Garra Arc** and **Mark I** remain experimental; VYSION has a simulated telemetry interface and WARDEN has browser-local SHA-256 verification. These are not completed devices or a full security platform.
 
 ---
 
